@@ -1,12 +1,17 @@
 [
     {
-        "nombre": "Mi Canción 1",
-        "imagen": "cover1.jpg",
-        "archivo": "cancion1.mp3"
+        "nombre": "Un Guerrero",
+        "imagen": "https://i.ibb.co/GfRk2sd2/Un-Simple-Canario.png",
+        "archivo": "unguerrero.mp3"
     },
     {
-        "nombre": "Mi Canción 2",
-        "imagen": "cover2.jpg",
-        "archivo": "cancion2.wav"
+        "nombre": "Blinding Lights",
+        "imagen": "https://example.com/cover2.jpg",
+        "archivo": "blinding-lights.wav"
+    },
+    {
+        "nombre": "Levitating",
+        "imagen": "https://i.imgur.com/cover3.png",
+        "archivo": "levitating.mp3"
     }
 ]
