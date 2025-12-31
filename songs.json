@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Mi Canción 1",
+        "imagen": "cover1.jpg",
+        "archivo": "cancion1.mp3"
+    },
+    {
+        "nombre": "Mi Canción 2",
+        "imagen": "cover2.jpg",
+        "archivo": "cancion2.wav"
+    }
+]
